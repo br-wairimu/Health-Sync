@@ -1,0 +1,10 @@
+{
+  "description": "Health-Sync streamlines supply chain analysis for local health and commerce networks, identifying distribution gaps to enhance efficiency and connectivity.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
